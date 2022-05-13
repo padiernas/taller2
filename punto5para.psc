@@ -1,5 +1,5 @@
 Algoritmo punto5para
-	Definir numeero, i, j Como Entero
+	Definir numeeros, i, j Como Entero
 	definir nota, acum, promedio Como Real
 	
 	Mostrar "ingrese numero de estudiantes"
